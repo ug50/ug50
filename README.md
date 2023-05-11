@@ -1,4 +1,4 @@
-### Hello i am ug50👋 ![image](https://github.com/ug50/ug50/assets/88290114/14bdff00-c70b-4428-bd03-67723fdb6545)
+### Hello i am ug50👋 
 
 
 <!--![image](https://github.com/ug50/ug50/assets/88290114/9ab25574-2383-469c-8ebc-ea45abf15b4e)
