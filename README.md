@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![Visit Counter](https://count.getloli.com/get/@chell?theme=rule34)
 ![github-contribution-grid-snake](https://github.com/ug50/ug50/assets/88290114/6bb404e5-8445-47ce-9803-8aa6e2644ee1)
 
+## Language
+
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"></a> 
+
